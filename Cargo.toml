@@ -7,6 +7,9 @@ edition = "2021"
 bytes = "1"
 prost = "0.8"
 tracing = "0.1"
+thiserror = "1.0"
+dashmap = "4"
+http = "0.2"
 
 [dev-dependencies]
 anyhow = "1"
